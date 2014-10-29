@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 zxcz
 =======
 pläma!
 >>>>>>> bd1f38198ec80876c6fe9da9b1262a203706c303
+=======
+﻿veidrad kalad
+
+pläma!
+>>>>>>> 426be3707563b1fb341213a544d42568206f391e
