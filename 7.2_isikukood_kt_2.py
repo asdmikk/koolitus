@@ -13,9 +13,9 @@ month_now = today.month      ###
 day_now = today.day          ###
 ################################
 
-#name = str(input('Sisesta palun nimi: '))
+name = str(input('Sisesta palun nimi: '))
 ID = str(input('Sisesta palun isikukood: '))
-name = 'k'
+#name = 'k'
 #ID = '39706100250'
 
 century = int(ID[0])
